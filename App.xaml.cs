@@ -13,6 +13,6 @@ namespace vidu_sudunggit
     /// </summary>
     public partial class App : Application
     {
-        123456789123abcaaaaa
+        123456789123abc
     }
 }
